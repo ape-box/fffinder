@@ -1,0 +1,18 @@
+﻿{
+    "Brands": {
+        "Quantity": 5,
+        "Distribution": 1.0
+    },
+    "Locations": {
+        "Quantity": 10,
+        "Distribution": 0.6
+    },
+    "Items": {
+        "Quantity": 10,
+        "Distribution": 0.6
+    },
+    "Prices": {
+        "Quantity": 9.99,
+        "Distribution": 0.5
+    }
+}

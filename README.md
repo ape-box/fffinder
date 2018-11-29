@@ -49,7 +49,7 @@ The server should load the data in memory, warm up if needed, and listen on port
     "CFK",
     "Checkers",
     "Dandys",
-    "DeutschlandDoner"
+    "DeutschlandDoner",
     "Drink",
     "FinitAManger",
     "GrizzlyExpress",
@@ -65,7 +65,7 @@ The server should load the data in memory, warm up if needed, and listen on port
     "PostaCafe",
     "PumpkinDonuts",
     "TacoRing",
-    "Tamari",
+    "Tamari"
 ]
 ```
 
@@ -91,22 +91,22 @@ The server should load the data in memory, warm up if needed, and listen on port
 *Items*
 ```
 [
-    Bagels
-    CheeseBurger,
-    ChickenNuggets,
-    Coffee,
-    Cola,
-    Cronuts,
-    Donuts,
-    FriedChicken,
-    Fries,
-    Hamburger,
-    Mhopper,
-    Milkshake,
-    Muffins,
-    OrangJuice,
-    Pizza,
-    Salad,
-    SmallMac
+    "Bagels",
+    "CheeseBurger",
+    "ChickenNuggets",
+    "Coffee",
+    "Cola",
+    "Cronuts",
+    "Donuts",
+    "FriedChicken",
+    "Fries",
+    "Hamburger",
+    "Mhopper",
+    "Milkshake",
+    "Muffins",
+    "OrangJuice",
+    "Pizza",
+    "Salad",
+    "SmallMac"
 ]
 ```
