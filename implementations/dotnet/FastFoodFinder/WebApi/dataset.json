@@ -1,0 +1,2277 @@
+[
+  {
+    "Brand": "Leopard",
+    "Locations": [
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 7.74
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.56
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.86
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.27
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.70
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.97
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.74
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.89
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.85
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.68
+          }
+        ]
+      },
+      {
+        "Location": "AT",
+        "Items": [
+          {
+            "Item": "Salad",
+            "Price": 7.57
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.10
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.25
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.07
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.08
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.33
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.55
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.64
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.19
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.01
+          }
+        ]
+      },
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 9.28
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.12
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.20
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.92
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.47
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.82
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.33
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.40
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.42
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.45
+          }
+        ]
+      },
+      {
+        "Location": "CO",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 5.61
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.64
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.18
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.25
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.65
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.67
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.75
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.91
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.67
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.54
+          }
+        ]
+      },
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 7.61
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.50
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.21
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.23
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.76
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.55
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.29
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.33
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.64
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 5.25
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "Mhopper",
+            "Price": 8.80
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.14
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.58
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.48
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.75
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.90
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.94
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.48
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.82
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.39
+          }
+        ]
+      },
+      {
+        "Location": "CU",
+        "Items": [
+          {
+            "Item": "Salad",
+            "Price": 7.89
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.11
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.46
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.57
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.03
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.29
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.35
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.64
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.38
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.78
+          }
+        ]
+      },
+      {
+        "Location": "GU",
+        "Items": [
+          {
+            "Item": "Fries",
+            "Price": 9.00
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.64
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.34
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.85
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.81
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.84
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.47
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.72
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.89
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.28
+          }
+        ]
+      },
+      {
+        "Location": "DZ",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 6.71
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.60
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.58
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.83
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.44
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.60
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.80
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.83
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.86
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.91
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 9.21
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.44
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.87
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.92
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.47
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.50
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.35
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.70
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.90
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Brand": "Checkers",
+    "Locations": [
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "Cronuts",
+            "Price": 5.37
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.24
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.67
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.88
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.02
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.35
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.82
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.54
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.72
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.31
+          }
+        ]
+      },
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "Cola",
+            "Price": 5.95
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.09
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.44
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.13
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.95
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.44
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.58
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.27
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.42
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.85
+          }
+        ]
+      },
+      {
+        "Location": "WF",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 7.45
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.13
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 7.52
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.15
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.17
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 5.16
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.10
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.87
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.97
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.43
+          }
+        ]
+      },
+      {
+        "Location": "DZ",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 8.06
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.91
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.24
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.26
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.30
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.45
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.68
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.31
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.76
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.80
+          }
+        ]
+      },
+      {
+        "Location": "CO",
+        "Items": [
+          {
+            "Item": "Cola",
+            "Price": 7.77
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 7.27
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.47
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.39
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.44
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.42
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.62
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.88
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.16
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.14
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "Cronuts",
+            "Price": 7.86
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.70
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.41
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.55
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.20
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.62
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 5.59
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.29
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.88
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.20
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "Salad",
+            "Price": 6.85
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.02
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.06
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.42
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.60
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.66
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.64
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.79
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.36
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.52
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 6.23
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.79
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.02
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.58
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.27
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.92
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 8.97
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.98
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.64
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.78
+          }
+        ]
+      },
+      {
+        "Location": "WF",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.59
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.96
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.94
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.49
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.51
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.67
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.06
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.86
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.07
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 5.02
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.33
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.73
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.66
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.81
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.72
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.74
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.40
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.02
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.80
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 8.71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Brand": "PumpkinDonuts",
+    "Locations": [
+      {
+        "Location": "DZ",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 9.75
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.24
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.90
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.11
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.56
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.75
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.29
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.51
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.64
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.47
+          }
+        ]
+      },
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 7.78
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.92
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.65
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.83
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.26
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.31
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.65
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.31
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.05
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.50
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.15
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.99
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.11
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.50
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.15
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.23
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.29
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.80
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.68
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.40
+          }
+        ]
+      },
+      {
+        "Location": "CU",
+        "Items": [
+          {
+            "Item": "Salad",
+            "Price": 5.29
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.44
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.63
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.19
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.58
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.96
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.78
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.62
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.87
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.60
+          }
+        ]
+      },
+      {
+        "Location": "AT",
+        "Items": [
+          {
+            "Item": "Mhopper",
+            "Price": 5.11
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.07
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.36
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.51
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.36
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.09
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.35
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.00
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.90
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.67
+          }
+        ]
+      },
+      {
+        "Location": "CU",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 6.56
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.26
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.50
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.17
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.81
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 8.80
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.24
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.21
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.18
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.10
+          }
+        ]
+      },
+      {
+        "Location": "DZ",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.22
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.86
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.42
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.61
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.96
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.93
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.95
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.87
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.91
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.24
+          }
+        ]
+      },
+      {
+        "Location": "AT",
+        "Items": [
+          {
+            "Item": "Salad",
+            "Price": 5.54
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.29
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 7.11
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.79
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.72
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.56
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.26
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.23
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.85
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 8.58
+          }
+        ]
+      },
+      {
+        "Location": "GU",
+        "Items": [
+          {
+            "Item": "Muffins",
+            "Price": 5.85
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.86
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.28
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.33
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.26
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.85
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.79
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.24
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.10
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.08
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.23
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.36
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.69
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.63
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.06
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.65
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.76
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.12
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.55
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.03
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Brand": "Checkers",
+    "Locations": [
+      {
+        "Location": "AT",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.45
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.70
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.46
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.98
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 5.74
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 7.50
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.82
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.79
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.51
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.43
+          }
+        ]
+      },
+      {
+        "Location": "DZ",
+        "Items": [
+          {
+            "Item": "Muffins",
+            "Price": 9.19
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.20
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.02
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.11
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.55
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.04
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.53
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.03
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.09
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.55
+          }
+        ]
+      },
+      {
+        "Location": "GU",
+        "Items": [
+          {
+            "Item": "Mhopper",
+            "Price": 8.31
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.14
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.93
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.32
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 8.03
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.59
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 7.49
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.18
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.75
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.64
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 9.19
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.45
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.27
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.75
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.41
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.87
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.54
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.61
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.48
+          },
+          {
+            "Item": "Salad",
+            "Price": 9.93
+          }
+        ]
+      },
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.51
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.44
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.04
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.85
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.33
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.90
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.92
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.71
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.65
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.22
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "Cronuts",
+            "Price": 9.61
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.71
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.94
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.56
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.27
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.70
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.43
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.04
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.79
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 7.32
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "Cola",
+            "Price": 8.07
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 9.96
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.61
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.89
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.82
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.71
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.15
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.36
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.88
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.14
+          }
+        ]
+      },
+      {
+        "Location": "CO",
+        "Items": [
+          {
+            "Item": "Cronuts",
+            "Price": 6.06
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.20
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.48
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.66
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.86
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.89
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.38
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.31
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.41
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.60
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "Cronuts",
+            "Price": 6.44
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.98
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.28
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.68
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.90
+          },
+          {
+            "Item": "Salad",
+            "Price": 6.18
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.97
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.11
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.59
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.31
+          }
+        ]
+      },
+      {
+        "Location": "CO",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 7.95
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.81
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.75
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.04
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.46
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.52
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.60
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.52
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.81
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Brand": "Habanero",
+    "Locations": [
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "Muffins",
+            "Price": 7.96
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.71
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.41
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 8.19
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.82
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.29
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 7.43
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 6.92
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.32
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.41
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "Fries",
+            "Price": 5.43
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.65
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 7.36
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.58
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.77
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.64
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.25
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.71
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.47
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.83
+          }
+        ]
+      },
+      {
+        "Location": "CN",
+        "Items": [
+          {
+            "Item": "FriedChicken",
+            "Price": 5.64
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.23
+          },
+          {
+            "Item": "Salad",
+            "Price": 7.17
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.59
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.48
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 7.24
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.09
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.91
+          },
+          {
+            "Item": "Salad",
+            "Price": 5.06
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.11
+          }
+        ]
+      },
+      {
+        "Location": "DZ",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 5.04
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.64
+          },
+          {
+            "Item": "Fries",
+            "Price": 8.17
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.20
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.85
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.58
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.32
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.79
+          },
+          {
+            "Item": "Muffins",
+            "Price": 5.83
+          },
+          {
+            "Item": "Fries",
+            "Price": 6.27
+          }
+        ]
+      },
+      {
+        "Location": "CU",
+        "Items": [
+          {
+            "Item": "Cola",
+            "Price": 6.28
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.39
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 5.15
+          },
+          {
+            "Item": "Cola",
+            "Price": 5.80
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 9.40
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.72
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.54
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 5.30
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.94
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.62
+          }
+        ]
+      },
+      {
+        "Location": "SM",
+        "Items": [
+          {
+            "Item": "Mhopper",
+            "Price": 6.63
+          },
+          {
+            "Item": "Fries",
+            "Price": 5.66
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.77
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.10
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.22
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.83
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 5.92
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 7.02
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.33
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.02
+          }
+        ]
+      },
+      {
+        "Location": "CU",
+        "Items": [
+          {
+            "Item": "Salad",
+            "Price": 8.44
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 5.85
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.76
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.49
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.88
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 8.64
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 7.52
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 7.74
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 8.29
+          },
+          {
+            "Item": "SmallMac",
+            "Price": 9.71
+          }
+        ]
+      },
+      {
+        "Location": "KP",
+        "Items": [
+          {
+            "Item": "Fries",
+            "Price": 5.17
+          },
+          {
+            "Item": "Cola",
+            "Price": 9.88
+          },
+          {
+            "Item": "Cola",
+            "Price": 8.62
+          },
+          {
+            "Item": "Salad",
+            "Price": 8.27
+          },
+          {
+            "Item": "Fries",
+            "Price": 9.60
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.59
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.95
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.62
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 5.05
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.54
+          }
+        ]
+      },
+      {
+        "Location": "GU",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 5.34
+          },
+          {
+            "Item": "Cola",
+            "Price": 7.18
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 8.39
+          },
+          {
+            "Item": "Muffins",
+            "Price": 9.27
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.03
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 6.30
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.60
+          },
+          {
+            "Item": "FriedChicken",
+            "Price": 6.42
+          },
+          {
+            "Item": "Cronuts",
+            "Price": 6.89
+          },
+          {
+            "Item": "Muffins",
+            "Price": 7.35
+          }
+        ]
+      },
+      {
+        "Location": "CO",
+        "Items": [
+          {
+            "Item": "SmallMac",
+            "Price": 9.26
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.04
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 9.55
+          },
+          {
+            "Item": "ChickenNuggets",
+            "Price": 6.11
+          },
+          {
+            "Item": "Muffins",
+            "Price": 8.23
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.17
+          },
+          {
+            "Item": "Muffins",
+            "Price": 6.61
+          },
+          {
+            "Item": "Mhopper",
+            "Price": 9.80
+          },
+          {
+            "Item": "Cola",
+            "Price": 6.60
+          },
+          {
+            "Item": "Fries",
+            "Price": 7.72
+          }
+        ]
+      }
+    ]
+  }
+]
